@@ -1,10 +1,10 @@
-var name = nameString("Myrrh");
-console.log(name);
 
-var name = nameString("Myrrh");
-console.log(name);
+  document.getElementById("demo").innerHTML =
+    "Hello there!" + 
+    "<br>" +
+     "I am Ebube from Nigeria." +
+    "<br>" + 
+    "I am 5ft8inches tall."; 
 
-var name = nameString("Myrrh");
-console.log(name);
-
+  
 

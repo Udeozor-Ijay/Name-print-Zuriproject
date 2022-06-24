@@ -1,0 +1,32 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html,body {
+    height: 100%;
+    width:100%;
+}
+
+@font-face {
+    font-family: 'Poppin';
+    src: url('https://fonts.google.com/specimen/Poppins');
+}
+
+html {
+    background-color:  hsla(0, 94%, 82%, 0.952);
+}
+
+body {
+    padding: 3em;
+    font-size: xx-large;
+    text-align: center;
+    font-family: 'Poppin', Courier, monospace;
+    color: hsl(249, 10%, 26%);
+}
+
+p{
+    margin: 5rem;
+    font-size: x-large;
+}
